@@ -1,0 +1,18 @@
+programma PROJECTS che gestisce un database di user che possiedono project
+
+
+casi d'uso  USER :
+-signup
+-autenticazione
+-visualizzazione profilo
+
+casi d'uso  PROJECT :
+-creare un nuovo progetto
+-visualizzare i miei progetti
+-cancellare un  io progetto
+
+
+casi d'uso  TASK :
+-aggiungere un task ad un progetto (non si riesce a visulaizzare i task)
+
+
